@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/hostingimagesservice/image/upload/v1676028741/My_project_copy-1_cqpkyf.jpg)
 
-Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><Uth
+Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
 🏠 Living: Dhaka, Bangladesh
 
 💖 &emsp;I enjoy programming and sharing knowledge <br/>
