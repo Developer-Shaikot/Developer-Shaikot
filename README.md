@@ -112,7 +112,7 @@ improving my web development skills. Every day I want to learn something new and
 
 <!-- other skills and my videos for the computer science section start here  -->
 
-work experience section starts here 
+work experience section starts here <br />
 💼  Employment History
 
 | Position            | Company                                   | Duration            | Location           |
