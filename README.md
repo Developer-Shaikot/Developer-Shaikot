@@ -110,17 +110,16 @@ improving my web development skills. Every day I want to learn something new and
 <br />
 <br />
 
-<!-- other skills and my videos for computer science section starts here  -->
+<!-- other skills and my videos for the computer science section start here  -->
 
-<!-- work experience section starts here  -->
-
-<!---### 💼 &nbsp; Employment History
+work experience section starts here 
+💼  Employment History
 
 | Position            | Company                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Full Stack Web Developer | NFC Technology                        | sept 2021-march2022   | Bangaluru, India   |
-<!-- work experience section ends here  -->
-<!-- education section starts here  -->
+work experience section ends here  
+education section starts here 
 
 ### 👨🏻‍🎓 &nbsp; Education
 
