@@ -1,10 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/hostingimagesservice/image/upload/v1676028741/My_project_copy-1_cqpkyf.jpg)
 
-Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><h1> Hello, I'm Shaikot Kundu Akash </h1>
-
-
-
-A skill developer & web developer  
+Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><Uth
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
 💖 &emsp;I enjoy programming and sharing knowledge <br/>
@@ -69,18 +65,6 @@ improving my web development skills. Every day I want to learn something new and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-shaikot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Developer-shaikot&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Utsa Chandra Sutradhar)
-![0_dtBtJppM7mqZVtzQ](https://user-images.githubusercontent.com/71923060/184312357-75e8fd1d-3130-44b1-b2d4-b76c3bd7fbea.gif)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
- ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-
 -->
 
 
@@ -132,10 +116,9 @@ improving my web development skills. Every day I want to learn something new and
 
 <!---### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
+| Position            | Company                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Web Designer | CoreLab IT                                    | May 2020- Running   | Mathbaria, Pirojpur   |
-| Research Assistant  | CoreLab IT                          | May 2020 - May 2021 | Mathbaria, Pirojpur   | --->
+| Full Stack Web Developer | NFC Technology                        | sept 2021-march2022   | Bangaluru, India   |
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
