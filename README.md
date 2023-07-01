@@ -118,8 +118,7 @@ work experience section starts here
 | Position            | Company                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Full Stack Web Developer | NFC Technology                        | sept 2021-march2022   | Bangaluru, India   |
-work experience section ends here  
-education section starts here 
+
 
 ### 👨🏻‍🎓 &nbsp; Education
 
