@@ -61,13 +61,11 @@ improving my web development skills. Every day I want to learn something new and
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-<!-- GitHub profile trophy -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Developer-Shaikot" alt="Developer-Shaikot" /></a> </p>
-<br />
-<!-- GitHub streak-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Shaikot&" alt="Developer-Shaikot" /></p>
-<!-- web-related skills section ends here  -->
-<!-- other skills for computer science section starts here  -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=developer-shaikot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-shaikot&" alt="developer-shaikot" /></p>
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shaikot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 -->
@@ -169,4 +167,4 @@ All rights reserved by Shaikot Kundu Akash @2020-Present
 [website]: https://akash-portfolio-5b1d5.web.app/
 [facebook]: https://www.facebook.com/saikat.akash1
 [linkedin]: https://www.linkedin.com/in/shaikot-3009
-[github]: https://github.com/Developer-Shaikot
+[github]: https://github.com/developer-shaikot
