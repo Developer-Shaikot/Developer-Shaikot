@@ -64,6 +64,7 @@ improving my web development skills. Every day I want to learn something new and
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developer-shaikot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shaikot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=developer-shaikot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-shaikot&" alt="developer-shaikot" /></p><br/>
 
 
