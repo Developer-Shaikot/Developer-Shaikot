@@ -3,7 +3,7 @@
 # I'm **Shaikot Kundu Akash**, a passionate Software Engineer from Dhaka, Bangladesh. 👋  
 🏠 Dhaka, Bangladesh  
 📧 Email: [shaikotkunduakash@gmail.com](mailto:shaikotkunduakash@gmail.com)  
-🔗 [Portfolio](https://akash-portfolio-5b1d5.web.app/) | [LinkedIn](https://www.linkedin.com/in/shaikot-3009) | [Facebook](https://www.facebook.com/saikat.akash1)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shaikot-3009) | [Facebook](https://www.facebook.com/saikat.akash1)  
 
 ---
 
