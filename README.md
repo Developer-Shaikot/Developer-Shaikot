@@ -17,7 +17,8 @@ I'm a passionate and goal-oriented **Lead Software Engineer** with solid experie
 
 | Role | Company | Duration | Location |
 |------|---------|----------|----------|
-| 👨‍💻 Tech Lead Software Engineer | Codetree | Jan 2025 - Present | Dhaka, Bangladesh |
+| 🧑‍💻 Full Stack Developer | Shothik AI | Oct 2025 – Present | Dhaka, Bangladesh 
+| 👨‍💻 Software Engineer | Codetree | Jan 2025 – Sept 2025 | Dhaka, Bangladesh |
 | 🧑‍💻 Full Stack Engineer (Contract) | Winterfell Solution | Apr 2024 – Jun 2024 | Dhaka, Bangladesh |
 | 🧑‍💻 Full Stack Developer (Contract) | Damex Digital Ltd | Jun 2023 – Aug 2023 | Dhaka, Bangladesh |
 | 💻 Full Stack Developer (Intern) | NFC Technology | Sept 2021 – Mar 2022 | Bengaluru, India (Remote) |
@@ -52,9 +53,11 @@ I'm a passionate and goal-oriented **Lead Software Engineer** with solid experie
 
 ## 👨‍🎓 Education
 
-- 🎓 **B.Sc. in Software Engineering (Ongoing)**  
-  Daffodil International University  
-  CGPA: 3.49
+- 🎓 **B.Sc. in Software Engineering**  
+  **Daffodil International University (DIU), Bangladesh**  
+  **Graduated:** 2024  
+  **CGPA:** 3.49 / 4.00
+
 
 ---
 
