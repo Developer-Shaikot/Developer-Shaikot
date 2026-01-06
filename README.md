@@ -9,7 +9,7 @@
 
 ## 🚀 Career Objective
 
-I'm a passionate and goal-oriented **Lead Software Engineer** with solid experience in **full-stack development (MERN + Laravel)**. I thrive in building scalable SaaS products, managing development teams, and following Agile methodologies. My focus is to continue growing by working on impactful, user-focused products while staying adaptive to new technologies.
+I'm a passionate and goal-oriented **Lead Software Engineer** with solid experience in **full-stack development (MERN + AI/ML)**. I thrive in building scalable SaaS products, managing development teams, and following Agile methodologies. My focus is to continue growing by working on impactful, user-focused products while staying adaptive to new technologies.
 
 ---
 
